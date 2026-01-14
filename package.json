@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "sumit learning backend",
+  "main": "javascript, backend, new learning",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "new",
+    "learning"
+  ],
+  "author": "sumit",
+  "license": "ISC"
+}
